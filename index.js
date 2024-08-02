@@ -20,6 +20,10 @@ function startGame() {
         message ="You're out of the game!"
         isAlive = false        
     }
+     messageEl.textContext = message
+}
 
-    messageEl.textContext = message
+function newCard() {
+    console.log("Drawing a new card from the deck!")
+    
 }
