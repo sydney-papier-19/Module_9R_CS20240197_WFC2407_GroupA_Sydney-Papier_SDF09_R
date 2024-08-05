@@ -1,6 +1,6 @@
 /*objects*/
 let player = {
-    name: "Per",
+    name: "Sydney",
     chips: 200
 }
 
